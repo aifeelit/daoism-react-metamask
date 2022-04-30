@@ -19,5 +19,5 @@ The applicant will be tasked with the creation of a simple React app that connec
 - any token can be used or [0x9ed2135850920ba65566d010b947b49e88651675](https://rinkeby.etherscan.io/address/0x9ed2135850920ba65566d010b947b49e88651675#code)
 
 ## How to start
-npm install
-npm start
+- npm install
+- npm start
